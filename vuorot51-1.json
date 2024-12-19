@@ -1,0 +1,2757 @@
+[
+    {
+        "name": "ANDERSSON PASI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 16:30, U, 11:30"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "ELORANTA SAMI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 18:00, Y, 13:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:30, Y, 12:30"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "V, 00:00"
+            }
+        ]
+    },
+    {
+        "name": "HEINONEN MIKA",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "04:00 - 16:00, Y, EH, 12:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 18:00, Y, 13:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 17:30, YA, 12:30"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "12:00 - 21:00, Y, 09:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "12:00 - 20:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "10:00 - 20:00, YA, 10:00"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "12:00 - 20:00, A, 08:00"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "14:00 - 00:00, Y, A, 10:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "14:00 - 21:00, Y, 07:00"
+            }
+        ]
+    },
+    {
+        "name": "HERRANEN LEEVI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            }
+        ]
+    },
+    {
+        "name": "INBERG PETER",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "06:00 - 18:00, U, Y, 12:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "12:00 - 18:00, EH, 06:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "04:00 - 10:00, Y, 06:00"
+            }
+        ]
+    },
+    {
+        "name": "JÄRVINEN ESA",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 16:45, T, 11:45"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "05:30 - 17:30, T, 12:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 17:00, T, 12:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "04:30 - 16:45, T, 12:15"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "10:30 - 17:30, T, 07:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "04:30 - 17:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:30, YA, 12:30"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "KUIKKA JARNO",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "13:30 - 01:00, Y, 11:30"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "13:30 - 01:00, Y, 11:30"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "12:00 - 18:30, Y, 06:30"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            }
+        ]
+    },
+    {
+        "name": "KUNNAS KRISTIAN",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "05:00 - 15:00, DC, 10:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "05:00 - 15:00, DC, 10:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 18:00, DC, 13:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:00, DC, 12:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 15:00, DC, 10:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "04:00 - 10:00, DC, 06:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 15:00, DC, 10:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "04:00 - 10:00, DC, 06:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 18:00, DC, 13:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 18:00, DC, 13:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 14:00, DC, 09:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "KURKI PEKKA",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "KURPPA JOUNI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "12:00 - 20:45, Y, 08:45"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            }
+        ]
+    },
+    {
+        "name": "LAITINEN MARKUS",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "10:00 - 17:00, B, 07:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "10:00 - 18:00, B, 08:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "04:00 - 16:15, Y, 12:15"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 17:30, B, 12:30"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "04:00 - 16:15, Y, B, 12:15"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "05:00 - 17:00, B, 12:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 17:00, B, 12:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "LAUKKANEN NIKO",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "05:30 - 17:00, T2B, 11:30"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "10:00 - 18:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 18:00, T, Y, 13:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "04:45 - 17:00, Y, 12:15"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "12:00 - 18:00, T, 06:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 16:45, TA, 11:45"
+            }
+        ]
+    },
+    {
+        "name": "LAVINKOSKI PASI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "05:15 - 17:45, Y, 12:30"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "04:45 - 17:15, Y, 12:30"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "04:45 - 17:00, Y, 12:15"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "05:15 - 17:45, Y, 12:30"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "04:45 - 17:00, Y, 12:15"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "04:00 - 13:15, Y, 09:15"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "04:45 - 17:00, Y, 12:15"
+            }
+        ]
+    },
+    {
+        "name": "LUKKINEN MIKA",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "14:00 - 00:15, T, 10:15"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "14:00 - 00:00, Y, T, 10:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "14:30 - 01:30, T, 11:00"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "13:45 - 00:00, Y, T, 10:15"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "14:00 - 21:00, Y, 07:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "10:00 - 20:00, YA, 10:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "10:00 - 20:00, YA, 10:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "12:00 - 18:30, Y, 06:30"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "12:00 - 00:00, Y, T, 12:00"
+            }
+        ]
+    },
+    {
+        "name": "MÄKIPÄÄ PETRI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "04:30 - 14:45, D, DC, 10:15"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "05:45 - 16:00, D, 10:15"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "04:30 - 12:00, D, 07:30"
+            }
+        ]
+    },
+    {
+        "name": "PIIRAINEN ANTTI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "04:00 - 12:15, Y, 08:15"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "05:15 - 18:00, Y, 12:45"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "04:45 - 17:00, Y, 12:15"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "04:00 - 10:00, Y, 06:00"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "05:15 - 17:30, Y, 12:15"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            }
+        ]
+    },
+    {
+        "name": "RANTALAINEN MIKA",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "12:00 - 00:00, Y, T, 12:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "12:00 - 18:30, Y, 06:30"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 18:00, Y, 13:00"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 17:30, Y, 12:30"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "11:30 - 18:30, Y, 07:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "12:00 - 18:30, Y, 06:30"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "14:00 - 00:00, Y, T, 10:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "13:30 - 01:00, Y, 11:30"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "12:00 - 00:00, Y, T, 12:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "14:00 - 00:00, T, 10:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "14:00 - 01:00, T, 11:00"
+            }
+        ]
+    },
+    {
+        "name": "RAUTIAINEN AKI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "13:30 - 20:00, Y, 06:30"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "12:00 - 18:00, Y, 06:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "14:00 - 00:45, Y, 10:45"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "14:00 - 00:45, Y, 10:45"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "ROUHIAINEN ISMO",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "11:00 - 19:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "V, 00:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "L, 00:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "13:00 - 20:30, Y, 07:30"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            }
+        ]
+    },
+    {
+        "name": "SETÄLÄ KARI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "12:00 - 00:00, Y, T, 12:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "14:00 - 00:00, Y, T, 10:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "14:00 - 00:00, Y, T, 10:00"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "13:00 - 21:00, T, 08:00"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "14:30 - 00:30, T, 10:00"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "14:00 - 00:00, Y, T, 10:00"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "14:00 - 00:00, Y, T, 10:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "14:00 - 21:00, Y, 07:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "12:00 - 00:00, Y, T, 12:00"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "12:00 - 00:45, Y, T, 12:45"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "14:00 - 00:15, T, 10:15"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "SOINI JANI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "14:30 - 01:00, U, 10:30"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "14:00 - 00:30, EH, 10:30"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "12:00 - 19:00, Y, 07:00"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "13:00 - 01:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "13:30 - 01:00, Y, 11:30"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "13:00 - 01:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "13:30 - 01:00, Y, 11:30"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "12:00 - 19:00, Y, 07:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "13:00 - 01:00, YA, 12:00"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "14:00 - 00:30, Y, A, 10:30"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "12:00 - 19:30, Y, 07:30"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "TUOVINEN TIMO",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "13:00 - 01:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "13:30 - 01:00, Y, 11:30"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "14:30 - 00:30, EH, 10:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "14:00 - 01:00, Y, 11:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "14:00 - 00:30, EH, 10:30"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "13:30 - 01:00, YA, 11:30"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "VAINIO SAULI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "05:00 - 17:00, T, 12:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "04:00 - 10:00, T, 06:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "04:00 - 17:00, Y, 13:00"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 17:00, YA, 12:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 17:00, T, 12:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "VÄYRYNEN HEIKKI",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "07:00 - 15:00, O, 08:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "04:00 - 06:00, K/U, 03:00"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "07:59 - 15:00, O, 08:00"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "04:15 - 15:00, K/U, LU, 10:45"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "04:15 - 15:00, K/U, LU, 10:45"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "07:00 - 15:00, LU, 08:00"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "04:30 - 17:00, Y, 12:30"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:30, YA, 12:30"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "04:30 - 17:00, Y, 12:30"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "05:00 - 18:00, Y, 13:00"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "05:00 - 18:00, Y, 13:00"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    },
+    {
+        "name": "WIKSTRÖM RIKU",
+        "days": [
+            {
+                "date": "2024-12-16",
+                "weekday": "Maanantai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-17",
+                "weekday": "Tiistai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-18",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-19",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-20",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-21",
+                "weekday": "Lauantai",
+                "shifts": "05:00 - 17:30, YA, 12:30"
+            },
+            {
+                "date": "2024-12-22",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 18:00, Y, 13:00"
+            },
+            {
+                "date": "2024-12-23",
+                "weekday": "Maanantai",
+                "shifts": "05:30 - 17:30, Y, 12:00"
+            },
+            {
+                "date": "2024-12-24",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-25",
+                "weekday": "Keskiviikko",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-26",
+                "weekday": "Torstai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-27",
+                "weekday": "Perjantai",
+                "shifts": "04:45 - 17:00, Y, 12:15"
+            },
+            {
+                "date": "2024-12-28",
+                "weekday": "Lauantai",
+                "shifts": "04:00 - 12:00, Y, 08:00"
+            },
+            {
+                "date": "2024-12-29",
+                "weekday": "Sunnuntai",
+                "shifts": "05:00 - 17:00, Y, 12:00"
+            },
+            {
+                "date": "2024-12-30",
+                "weekday": "Maanantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2024-12-31",
+                "weekday": "Tiistai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-01",
+                "weekday": "Keskiviikko",
+                "shifts": "04:00 - 13:45, Y, 09:45"
+            },
+            {
+                "date": "2025-01-02",
+                "weekday": "Torstai",
+                "shifts": "05:30 - 18:00, Y, 12:30"
+            },
+            {
+                "date": "2025-01-03",
+                "weekday": "Perjantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-04",
+                "weekday": "Lauantai",
+                "shifts": "ei vuoroa"
+            },
+            {
+                "date": "2025-01-05",
+                "weekday": "Sunnuntai",
+                "shifts": "ei vuoroa"
+            }
+        ]
+    }
+]

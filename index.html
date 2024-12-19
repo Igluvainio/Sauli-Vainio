@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Schedule Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            text-align: center;
+        }
+        input, button {
+            padding: 10px;
+            margin: 10px 0;
+            font-size: 16px;
+        }
+        .schedule {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #fff;
+        }
+        .day {
+            margin-bottom: 10px;
+        }
+        .day strong {
+            color: #333;
+        }
+        .results {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #e6f7ff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Work Schedule Viewer</h1>
+    <label for="employeeInput">Enter Full Name:</label>
+    <input type="text" id="employeeInput" placeholder="Type employee full name..." onkeypress="handleEnter(event)">
+    <button onclick="showScheduleAndResults()">Näytä</button>
+    <div id="schedule" class="schedule"></div>
+    <div id="results" class="results"></div>
+
+    <script>
+        let shiftsData = {};
+        let resultsData = {};
+
+        // Load both JSON files
+        async function loadData() {
+            const shiftsResponse = await fetch('vuorot51-1.json'); // Replace with your shifts JSON file
+            shiftsData = await shiftsResponse.json();
+
+            const resultsResponse = await fetch('lisät51-1.json'); // Replace with your results JSON file
+            resultsData = await resultsResponse.json();
+        }
+
+        // Handle Enter key press
+        function handleEnter(event) {
+            if (event.key === "Enter") {
+                showScheduleAndResults();
+            }
+        }
+
+        // Display schedule and results
+        function showScheduleAndResults() {
+            const nameInput = document.getElementById("employeeInput").value.toLowerCase().trim();
+
+            const employeeShifts = shiftsData.find(employee => 
+                employee.name.toLowerCase() === nameInput
+            );
+
+            // Normalize keys in resultsData to lowercase
+            const normalizedResults = {};
+            for (const key in resultsData) {
+                normalizedResults[key.toLowerCase()] = resultsData[key];
+            }
+
+            const employeeResults = normalizedResults[nameInput];
+
+            const scheduleDiv = document.getElementById("schedule");
+            const resultsDiv = document.getElementById("results");
+
+            scheduleDiv.innerHTML = "";
+            resultsDiv.innerHTML = "";
+
+            if (employeeShifts) {
+                scheduleDiv.innerHTML = `<h3>Work Schedule for ${employeeShifts.name}</h3>`;
+                employeeShifts.days.forEach(day => {
+                    scheduleDiv.innerHTML += `
+                        <div class="day">
+                            <strong>${day.date} (${day.weekday}):</strong> ${day.shifts}
+                        </div>`;
+                });
+            } else {
+                scheduleDiv.innerHTML = `<p>No schedule found for the given name.</p>`;
+            }
+
+            if (employeeResults) {
+                resultsDiv.innerHTML = `<h3>Results for ${employeeShifts ? employeeShifts.name : nameInput}</h3>`;
+                Object.keys(employeeResults).forEach(key => {
+                    resultsDiv.innerHTML += `
+                        <div>
+                            <strong>${key}:</strong> ${parseFloat(employeeResults[key]).toFixed(2)} hours
+                        </div>`;
+                });
+            } else {
+                resultsDiv.innerHTML = `<p>No results found for the given name.</p>`;
+            }
+        }
+
+        // Initialize by loading data
+        loadData();
+    </script>
+</body>
+</html>
